@@ -33,7 +33,7 @@ Recognizing the limitations of a single-model approach, we explored stacking ens
 
 
 ## Model Variants
-- **Complete Dataset Model: Utilizes all available data, excluding rows with missing values.
+- **Complete Dataset Model**: Utilizes all available data, excluding rows with missing values.
 - **KNN Imputation Model**: Employs K-Nearest Neighbors to impute missing values, testing for improved RMSE.
 - **KNN Imputation Model excluding 2023 Data**: Avoids the year 2023 due to high inaccuracy in KNN-imputed values for that year.
 - **Mean Imputation Model**: Uses mean values for imputation, testing different data handling strategies.
