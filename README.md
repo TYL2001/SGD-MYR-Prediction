@@ -35,9 +35,9 @@ Recognizing the limitations of a single-model approach, we explored stacking ens
 - KNN Imputation Model: Employs K-Nearest Neighbors to impute missing values, testing for improved RMSE.
 - KNN Imputation Model excluding 2023 Data: Avoids the year 2023 due to high inaccuracy in KNN-imputed values for that year.
 - Mean Imputation Model: Uses mean values for imputation, testing different data handling strategies.
-- Macro Economic Model: Focuses on macroeconomic indicators.
-- Trading and Investing Model: Concentrates on trading volumes and investment flows.
-- Economic Health Model: Looks at indicators of a country's economic health.
+- Macro Economic Model: Focuses on macroeconomic indicators and uses KNN Imputation technique.
+- Trading and Investing Model: Concentrates on trading volumes and investment flows and uses KNN Imputation technique.
+- Economic Health Model: Looks at indicators of a country's economic health and uses KNN Imputation technique.
 
 ## Conclusion
 This project highlights the significant challenges involved in forecasting exchange rates with high accuracy. Despite employing advanced ensemble techniques and multiple model variations, the persistently high RMSE values across all models reflect the unpredictable nature of exchange rates.
