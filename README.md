@@ -1,18 +1,18 @@
-# Lets try to predict SGD:MYR!
+## SC1015 Mini-Project
 This repository is submitted to Nanyang Techonological University (NTU) for the course SC1015 (Introduction to Data Science and Artificial Intelligence).
-# Contributors
+## Contributors
 Tan Yi Liang (YTAN273@e.ntu.edu.sg)
 
 Chong Zhao Hui (ZCHONG025@e.ntu.edu.sg)
 
 Dinh Pham Minh Anh (DINH0016@e.ntu.edu.sg)
-# Libraries
-- Pandas
-- Numpy
-- Scikit-learn
-- Matplotlib
-# Datasets
-Datasets used for this project can be found [here](https://github.com/TYL2001/SGD-MYR-Prediction/tree/main/Datasetshere), with the sources state in the 'Source.txt' file.
+## Libraries
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/)
+## Datasets
+Datasets used for this project can be found [here](https://github.com/TYL2001/SGD-MYR-Prediction/tree/main/Datasetshere), with the sources found [here](https://github.com/TYL2001/SGD-MYR-Prediction/blob/main/Datasets/Source.txt).
 
 
 
