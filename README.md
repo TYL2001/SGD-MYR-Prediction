@@ -1,5 +1,5 @@
 ## SC1015 Mini-Project
-This repository is submitted to Nanyang Techonological University (NTU) for the course SC1015 (Introduction to Data Science and Artificial Intelligence).
+This repository is submitted to Nanyang Techonological University (NTU) for the course SC1015 (Introduction to Data Science and Artificial Intelligence), and for the tutorial group FCS7, Group 2.
 ## Contributors
 Tan Yi Liang (YTAN273@e.ntu.edu.sg)
 
