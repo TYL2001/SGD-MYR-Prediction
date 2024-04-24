@@ -18,7 +18,7 @@ Datasets used for this project can be found [here](https://github.com/TYL2001/SG
 
 # Exchange Rate Prediction Model
 ## Project Overview
-This project aims to predict the currency exchange rates between Singapore and Malaysia based on historical economic data. Our motivation stems from the understanding that exchange rates are influenced by numerous dynamic factors, and accurate predictions can benefit financial analysis and investment strategies. By applying machine learning techniques, we aim to develop models that may be able to reflect the complexities of currency valuation.
+This project aims to predict the currency exchange rates between Singapore and Malaysia based on historical economic data. Our motivation stems from the understanding that exchange rates are influenced by numerous dynamic factors, and accurate predictions can benefit financial analysis and investment strategies. By applying machine learning techniques, we aim to develop models that may be able to reflect the complexities of currency valuation. The Jupyter Notebook can be found [here](https://github.com/TYL2001/SGD-MYR-Prediction/blob/main/SGD_MYR_Prediction.ipynb).
 
 ## Exploratory Data Analysis (EDA)
 For our EDA, we employed linear regression to identify basic trends and correlations within the data from historical years excluding 2020-2022. This phase helped us understand the relative influence of different variables on exchange rates.
