@@ -29,6 +29,8 @@ For our EDA, we employed linear regression to identify basic trends and correlat
 
 ## Modelling Techniques
 Recognizing the limitations of a single-model approach, we explored stacking ensemble modelling to enhance predictive performance. This technique combines predictions from several models to reduce bias, variance, and improve interpretability.
+![image](https://github.com/TYL2001/SGD-MYR-Prediction/assets/147519488/986bc22c-11a7-4997-9383-b89ab7cc9be9)
+
 
 ## Model Variants
 - Complete Dataset Model: Utilizes all available data, excluding rows with missing values.
