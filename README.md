@@ -41,6 +41,9 @@ Recognizing the limitations of a single-model approach, we explored stacking ens
 - Trading and Investing Model: Concentrates on trading volumes and investment flows and uses KNN Imputation technique.
 - Economic Health Model: Looks at indicators of a country's economic health and uses KNN Imputation technique.
 
+## Findings
+The RMSE of the above models was extremely high, signifying that the models had a terrible accuracy in predicting the exchange rates.
+
 ## Conclusion
 This project highlights the significant challenges involved in forecasting exchange rates with high accuracy. Despite employing advanced ensemble techniques and multiple model variations, the persistently high RMSE values across all models reflect the unpredictable nature of exchange rates.
 
