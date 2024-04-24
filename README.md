@@ -33,13 +33,13 @@ Recognizing the limitations of a single-model approach, we explored stacking ens
 
 
 ## Model Variants
-- Complete Dataset Model: Utilizes all available data, excluding rows with missing values.
-- KNN Imputation Model: Employs K-Nearest Neighbors to impute missing values, testing for improved RMSE.
-- KNN Imputation Model excluding 2023 Data: Avoids the year 2023 due to high inaccuracy in KNN-imputed values for that year.
-- Mean Imputation Model: Uses mean values for imputation, testing different data handling strategies.
-- Macro Economic Model: Focuses on macroeconomic indicators and uses KNN Imputation technique.
-- Trading and Investing Model: Concentrates on trading volumes and investment flows and uses KNN Imputation technique.
-- Economic Health Model: Looks at indicators of a country's economic health and uses KNN Imputation technique.
+- **Complete Dataset Model: Utilizes all available data, excluding rows with missing values.
+- **KNN Imputation Model**: Employs K-Nearest Neighbors to impute missing values, testing for improved RMSE.
+- **KNN Imputation Model excluding 2023 Data**: Avoids the year 2023 due to high inaccuracy in KNN-imputed values for that year.
+- **Mean Imputation Model**: Uses mean values for imputation, testing different data handling strategies.
+- **Macro Economic Model**: Focuses on macroeconomic indicators and uses KNN Imputation technique.
+- **Trading and Investing Model**: Concentrates on trading volumes and investment flows and uses KNN Imputation technique.
+- **Economic Health Model**: Looks at indicators of a country's economic health and uses KNN Imputation technique.
 
 ## Findings
 The RMSE of the above models was extremely high, signifying that the models had a terrible accuracy in predicting the exchange rates.
