@@ -6,6 +6,8 @@ Tan Yi Liang (YTAN273@e.ntu.edu.sg)
 Chong Zhao Hui (ZCHONG025@e.ntu.edu.sg)
 
 Dinh Pham Minh Anh (DINH0016@e.ntu.edu.sg)
+
+**All members had equal part in this project.**
 ## Libraries
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
