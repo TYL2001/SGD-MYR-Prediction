@@ -1,5 +1,5 @@
 ## SC1015 Mini-Project
-This repository is submitted to Nanyang Techonological University (NTU) for the course SC1015 (Introduction to Data Science and Artificial Intelligence), and for the tutorial group FCS7, Group 2.
+This repository is submitted to Nanyang Techonological University (NTU) for the course SC1015 (Introduction to Data Science and Artificial Intelligence), and for the tutorial group **FCS7, Group 2.**
 ## Contributors
 Tan Yi Liang (YTAN273@e.ntu.edu.sg)
 
@@ -48,5 +48,5 @@ The RMSE of the above models was extremely high, signifying that the models had 
 This project highlights the significant challenges involved in forecasting exchange rates with high accuracy. Despite employing advanced ensemble techniques and multiple model variations, the persistently high RMSE values across all models reflect the unpredictable nature of exchange rates.
 
 ## Sources
-- Sources for datasets are stated in the 'Datasets' section
+- Sources for datasets are found [here](https://github.com/TYL2001/SGD-MYR-Prediction/blob/main/Datasets/Source.txt).
 - https://www.investopedia.com/trading/factors-influence-exchange-rates/
