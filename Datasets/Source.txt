@@ -1,0 +1,2 @@
+Currency Exchange Rate data taken from: https://eservices.mas.gov.sg/Statistics/msb/ExchangeRates.aspx
+ALl other data taken from: https://data.worldbank.org/
