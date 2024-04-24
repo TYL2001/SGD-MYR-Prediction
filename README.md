@@ -41,3 +41,7 @@ Recognizing the limitations of a single-model approach, we explored stacking ens
 
 ## Conclusion
 This project highlights the significant challenges involved in forecasting exchange rates with high accuracy. Despite employing advanced ensemble techniques and multiple model variations, the persistently high RMSE values across all models reflect the unpredictable nature of exchange rates.
+
+## Sources
+- Sources for datasets are stated in the 'Datasets' section
+- https://www.investopedia.com/trading/factors-influence-exchange-rates/
